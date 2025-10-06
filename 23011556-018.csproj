@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Array Count Even and Odd num.cs" />
     <Compile Include="Array Find Min and Max.cs" />
+    <Compile Include="Array Search Element.cs" />
     <Compile Include="Even and Odd.cs" />
     <Compile Include="Fac cal.cs" />
     <Compile Include="Grade eva.cs" />
