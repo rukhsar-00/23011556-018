@@ -10,6 +10,7 @@ namespace _23011556_018
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
         }
     }
 }
